@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="">
+    <file>go.png</file>
+  </qresource>
+  <qresource prefix="">
+    <file>home.png</file>
+  </qresource>
+  <qresource prefix="">
+    <file>backward.png</file>
+  </qresource>
+  <qresource prefix="">
+    <file>forward.png</file>
+  </qresource>
+  <qresource prefix="">
+    <file>reload.png</file>
+  </qresource>
+</RCC>
